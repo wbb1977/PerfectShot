@@ -14,7 +14,7 @@ Go to the key binding dialog and bind three new keys:
 # Chat command
 To do a series of screenshots automatically:
 
-* /ps <number screenshots> <delay in seconds> [<show names: 1>]
+* '/ps &lt;number screenshots&gt; &lt;delay in seconds&gt; [&lt;show names: 1&gt;]'
 
 Takes X screenshots, after each screenshot the addon waits Y seconds. To show names append a '1' otherwise names are not shown (default) on screenshot.
 
